@@ -1,2 +1,2 @@
 # testrepo
-coursera
+coursera git and github course
